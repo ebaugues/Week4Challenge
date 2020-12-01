@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\Week4Challenge\Week4Challenge\Week4Challenge\obj\Debug\Week4Challenge.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\Week4Challenge\Week4Challenge\Week4Challenge\obj\Debug\Week4Challenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\Week4Challenge\Week4Challenge\Week4Challenge\bin\Debug\Week4Challenge.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\Week4Challenge\Week4Challenge\Week4Challenge\bin\Debug\Week4Challenge.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\Week4Challenge\Week4Challenge\Week4Challenge\bin\Debug\Week4Challenge.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\Week4Challenge\Week4Challenge\Week4Challenge\obj\Debug\Week4Challenge.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\Week4Challenge\Week4Challenge\Week4Challenge\obj\Debug\Week4Challenge.pdb
